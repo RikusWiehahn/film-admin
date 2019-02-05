@@ -1,0 +1,12 @@
+const CLR = {
+  PRIMARY_COLOR: '#4E00D8',
+  PRIMARY_COLOR_ACTIVE: '#0051FF',
+  WHITE: '#fff',
+  SURFACE_WHITE: '#f4f4f4',
+  SURFACE_ACTIVE: '#E8E8E8',
+  BLACK: '#000',
+  BLACK_ACTIVE: '#2D2D2D',
+  RED_ERROR_TEXT: '#FF0049',
+};
+
+export default CLR;
